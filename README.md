@@ -41,24 +41,22 @@ RegisterNumber:24900753
 
 
 **RTL realization**
-![Uploading de22 project  diagrsm.png…]()
+![WhatsApp Image 2024-11-26 at 13 25 16_7f8a1b55](https://github.com/user-attachments/assets/9549060f-7451-40aa-892b-03f9cd9255f8)
 
 
-![WhatsApp Image 2024-11-26 at 11 49 30_2fb98d4f](https://github.com/user-attachments/assets/358eec5a-20ac-4f03-8953-9ef039e91db0)
-
-
+![WhatsApp Image 2024-11-26 at 11 49 30_2fb98d4f](https://github.com/user-attachments/assets/8d8a68f5-caa2-4207-833e-d8c8a74278b1)
 
 
 **Output:**
+
+**RTL**
+
+**Timing Diagram**
 ![WhatsApp Image 2024-11-26 at 11 49 31_330cd36f](https://github.com/user-attachments/assets/6fae658a-29ec-4e02-829a-a1d3f3c0d007)
 
 
 ![WhatsApp Image 2024-11-26 at 11 49 31_5fdfd8d2](https://github.com/user-attachments/assets/e503569a-48af-48c4-a374-b817ce974925)
 
-
-**RTL**
-
-**Timing Diagram**
 
 
 **Result:**
